@@ -14,7 +14,8 @@ Taking the dataset Photo as an example, run the following command to obtain the 
     python main.py   --dataset  Photo    --lr 0.001  --weight_decay  5e-5  --tau=0.1
 
 ## Acknowledgements
-The implementation of this code is largely built upon [LSGCL](https://github.com/maxgaocode/LSGCL)
+Nanjing University of Science and Technology
+This work is supported in part by the National Natural Science Foundation of China under Grants  (No. 61773215, 61802206), and the Key Research and Development Plan of Jiangsu Province under Grants (No. BE2020729).
 
 ## Citation
 ```bibtex
